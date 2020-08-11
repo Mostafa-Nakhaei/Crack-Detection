@@ -4,4 +4,5 @@ This repository uses uses YoloV3 algorithm to detect crack at the surface flexib
 A sample image is provided here (not the out put of our model, but to help visualize the users)
 
 <img src= "./images/crack detection2.png" alt="crack detaction">
-### This repository is under construction
+
+## Note: this repository is under construction
